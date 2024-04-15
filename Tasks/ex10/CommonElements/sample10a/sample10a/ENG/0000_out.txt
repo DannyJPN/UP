@@ -1,0 +1,6 @@
+Enter size of set A:
+Enter members of set A:
+Enter size of set B:
+Enter members of set B:
+Set intersection:
+{1, 3, 4}

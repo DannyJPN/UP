@@ -1,0 +1,2 @@
+Zadejte cislo:
+3e+08 : Spravne zadane cislo.

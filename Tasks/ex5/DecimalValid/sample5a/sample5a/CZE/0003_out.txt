@@ -1,0 +1,2 @@
+Zadejte cislo:
+9.876 : Spravne zadane cislo.

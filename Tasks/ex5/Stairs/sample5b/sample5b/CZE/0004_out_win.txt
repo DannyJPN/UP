@@ -1,0 +1,10 @@
+Zadejte pocet schodu:
+_
+X_
+XX_
+XXX_
+XXXX_
+XXXXX_
+XXXXXX_
+XXXXXXX_
+XXXXXXXX_

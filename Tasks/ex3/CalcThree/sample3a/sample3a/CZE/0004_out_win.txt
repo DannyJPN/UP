@@ -1,0 +1,9 @@
+Zadejte prvni cislo:
+Zadejte druhe cislo:
+Zadejte treti cislo:
+Soucet je:
+22
+Soucin je:
+-2880
+Rozdil je:
+-2

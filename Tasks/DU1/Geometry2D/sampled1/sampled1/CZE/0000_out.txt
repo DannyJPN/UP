@@ -1,0 +1,4 @@
+Zadejte rovinny obrazec, jehoz obsah a obvod chcete spocitat: a - ctverec, b - obdelnik, c - kruh
+Zadejte stranu ctverce:
+Obsah ctverce je: 30.2500
+Obvod ctverce je: 22.0000

@@ -1,0 +1,23 @@
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Novels are:
+Anatom
+Cinska_nevesta
+Hrisnik
+
+Books with price lower than 300,- Kc are:
+Broucci
+Anatom
+Sedmero_pohadek
+Cinska_nevesta
+Hrisnik
+
+Surnames of all authors are:
+Karafiat
+Andahazi
+Paustovskij
+Putney
+Hunter

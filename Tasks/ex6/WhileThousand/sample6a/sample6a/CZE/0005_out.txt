@@ -1,0 +1,2 @@
+Zadavejte cisla, posledni bude 1000:
+Vysledek souctu cisel je: 990

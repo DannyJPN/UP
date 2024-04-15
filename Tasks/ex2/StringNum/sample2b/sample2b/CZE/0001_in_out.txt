@@ -1,0 +1,3 @@
+Zadej svoje jmeno (bez diakritiky): Zadej cele cislo: Ahoj, Referi Gerator.
+18 x 3 = 54
+18 / 3 = 6

@@ -1,0 +1,2 @@
+Enter number of visitors:
+Invalid input.

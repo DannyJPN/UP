@@ -1,0 +1,4 @@
+Enter a 2D shape to compute area and perimeter: a - square, b - rectangle, c -circle
+Enter the radius of the circle:
+Circle area is: 314.1593
+Circumference is: 62.8319

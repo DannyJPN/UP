@@ -1,0 +1,2 @@
+Zadejte rovinny obrazec, jehoz obsah a obvod chcete spocitat: a - ctverec, b - obdelnik, c - kruh
+Nespravny vstup.

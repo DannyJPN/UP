@@ -1,0 +1,22 @@
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Novels are:
+Fontana_pro_Zuzanu
+Svudkyne
+Tanec_s_draky
+
+Books with price lower than 300,- Kc are:
+Fontana_pro_Zuzanu
+Svudkyne
+Indocinou_na_kole
+Vratne_lahve
+
+Surnames of all authors are:
+Gasparova
+Johnson
+Cerveny
+Martin
+Sverak

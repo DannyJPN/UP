@@ -1,0 +1,2 @@
+Zadej cislo ve dvojkove soustave:
+Desitkove cislo je: 0

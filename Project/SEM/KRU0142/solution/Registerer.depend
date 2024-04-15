@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1512541036 source:c:\users\oem\dropbox\vsb\kru0142\solution\csharp.cpp
+	<sstream>
+	"csharp.hpp"
+
+1512321607 c:\users\oem\dropbox\vsb\kru0142\solution\csharp.hpp
+	<vector>
+	"database.hpp"
+
+1512455251 c:\users\oem\dropbox\vsb\kru0142\solution\database.hpp
+	<string>
+
+1512540947 source:c:\users\oem\dropbox\vsb\kru0142\solution\database.cpp
+	"database.hpp"
+	"dateoperations.hpp"
+
+1512321775 c:\users\oem\dropbox\vsb\kru0142\solution\dateoperations.hpp
+	<string>
+
+1512404842 source:c:\users\oem\dropbox\vsb\kru0142\solution\dateoperations.cpp
+	<time.h>
+	<vector>
+	<sstream>
+	"csharp.hpp"
+	"dateoperations.hpp"
+
+1512403680 source:c:\users\oem\dropbox\vsb\kru0142\solution\fileoperations.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	<sstream>
+	"fileoperations.hpp"
+	"csharp.hpp"
+	"dateoperations.hpp"
+	"fileoperations.hpp"
+
+1512322010 c:\users\oem\dropbox\vsb\kru0142\solution\fileoperations.hpp
+	<string>
+	"database.hpp"
+
+1512406691 source:c:\users\oem\dropbox\vsb\kru0142\solution\htmlexp.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"htmlexp.hpp"
+	"csharp.hpp"
+	"dateoperations.hpp"
+
+1512322179 c:\users\oem\dropbox\vsb\kru0142\solution\htmlexp.hpp
+	"database.hpp"
+
+1512498051 source:c:\users\oem\dropbox\vsb\kru0142\solution\main.cpp
+	<iostream>
+	"commands.hpp"
+	"security.hpp"
+	"fileoperations.hpp"
+	"csharp.hpp"
+
+1512321634 c:\users\oem\dropbox\vsb\kru0142\solution\commands.hpp
+	<string>
+
+1512322585 c:\users\oem\dropbox\vsb\kru0142\solution\security.hpp
+	<string>
+
+1512406884 source:c:\users\oem\dropbox\vsb\kru0142\solution\security.cpp
+	<iostream>
+	"security.hpp"
+
+1512540994 source:c:\users\oem\dropbox\vsb\kru0142\solution\stdout.cpp
+	<iostream>
+	<fstream>
+	"stdout.hpp"
+	"csharp.hpp"
+	"dateoperations.hpp"
+	"fileoperations.hpp"
+
+1512322671 c:\users\oem\dropbox\vsb\kru0142\solution\stdout.hpp
+	<vector>
+	"database.hpp"
+
+1512581184 source:c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\commands.cpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<fstream>
+	"commands.hpp"
+	"database.hpp"
+	"fileoperations.hpp"
+	"csharp.hpp"
+	"dateoperations.hpp"
+	"stdout.hpp"
+	"htmlexp.hpp"
+
+1512321634 c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\commands.hpp
+	<string>
+
+1512455251 c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\database.hpp
+	<string>
+
+1512322010 c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\fileoperations.hpp
+	<string>
+	"database.hpp"
+
+1512321607 c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\csharp.hpp
+	<vector>
+	"database.hpp"
+
+1512321775 c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\dateoperations.hpp
+	<string>
+
+1512322671 c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\stdout.hpp
+	<vector>
+	"database.hpp"
+
+1512322179 c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\htmlexp.hpp
+	"database.hpp"
+
+1512541036 source:c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\csharp.cpp
+	<sstream>
+	"csharp.hpp"
+
+1512540947 source:c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\database.cpp
+	"database.hpp"
+	"dateoperations.hpp"
+
+1512404842 source:c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\dateoperations.cpp
+	<time.h>
+	<vector>
+	<sstream>
+	"csharp.hpp"
+	"dateoperations.hpp"
+
+1512403680 source:c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\fileoperations.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	<sstream>
+	"fileoperations.hpp"
+	"csharp.hpp"
+	"dateoperations.hpp"
+	"fileoperations.hpp"
+
+1512406691 source:c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\htmlexp.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"htmlexp.hpp"
+	"csharp.hpp"
+	"dateoperations.hpp"
+
+1512498051 source:c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\main.cpp
+	<iostream>
+	"commands.hpp"
+	"security.hpp"
+	"fileoperations.hpp"
+	"csharp.hpp"
+
+1512322585 c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\security.hpp
+	<string>
+
+1512406884 source:c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\security.cpp
+	<iostream>
+	"security.hpp"
+
+1512540994 source:c:\users\dan krupa\dropbox\uni\vsb\vsb\bc_ivt_i\s1\pr i\tasks\sem\kru0142\solution\stdout.cpp
+	<iostream>
+	<fstream>
+	"stdout.hpp"
+	"csharp.hpp"
+	"dateoperations.hpp"
+	"fileoperations.hpp"
+

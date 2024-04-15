@@ -1,0 +1,23 @@
+Enter the surname, name, birth number, disease, insurance company of the patient:
+Enter the surname, name, birth number, disease, insurance company of the patient:
+Enter the surname, name, birth number, disease, insurance company of the patient:
+Enter the surname, name, birth number, disease, insurance company of the patient:
+Enter the surname, name, birth number, disease, insurance company of the patient:
+The name and surname of patients with tbc:
+Jan Novak
+The name and surname of patients with the insurance company 211 is:
+Jan Novak
+The name and surname of patients with tbc:
+Ursula Malinkata
+The name and surname of patients with tbc:
+Tomas Holy
+The name and surname of patients with tbc:
+Xavier Maly
+The name and surname of patients with tbc:
+Ludmila Schwarzova
+The surnames of all patients are:
+Novak
+Malinkata
+Holy
+Maly
+Schwarzova

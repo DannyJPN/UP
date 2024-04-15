@@ -1,0 +1,3 @@
+Zadejte parametry:
+Koren 1: 7
+Koren 2: 11

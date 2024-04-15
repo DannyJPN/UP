@@ -1,0 +1,2 @@
+Zadejte cislo:
+-0.00248 : Spravne zadane cislo.

@@ -1,0 +1,22 @@
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Romany jsou:
+Laska_v_nebezpeci
+Cesta_kolem_sveta_za_80_dni
+
+Knihy s cenou mensi nez 300,- Kc jsou:
+Laska_v_nebezpeci
+Cesta_kolem_sveta_za_80_dni
+Hra_o_truny
+1984
+451_stupnu_Fahrenheita
+
+Prijmeni vsech autoru jsou:
+Quinn
+Verne
+Martin
+Orwel
+Bradbury

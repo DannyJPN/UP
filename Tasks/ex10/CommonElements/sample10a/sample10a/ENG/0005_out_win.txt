@@ -1,0 +1,3 @@
+Enter size of set A:
+Enter members of set A:
+Invalid input.

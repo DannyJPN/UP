@@ -1,0 +1,4 @@
+Enter a 2D shape to compute area and perimeter: a - square, b - rectangle, c -circle
+Enter the sides of the rectangle:
+Rectangle area is: 6.0000
+Rectangle perimeter is: 10.0000

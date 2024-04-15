@@ -1,0 +1,7 @@
+Zadejte 3 slova:
+Slovo1 a slovo2 jsou stejna.
+Slovo1 a slovo3 jsou stejna.
+Slovo2 a slovo3 jsou stejna.
+Pocet znaku ve slovo1 je: 8
+Pocet znaku ve slovo2 je: 8
+Pocet znaku ve slovo3 je: 8

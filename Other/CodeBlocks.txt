@@ -1,0 +1,4 @@
+http://www.codeblocks.org/downloads/26
+
+
+http://sourceforge.net/projects/codeblocks/files/Binaries/16.01/Windows/codeblocks-16.01mingw-nosetup.zip

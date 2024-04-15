@@ -1,0 +1,2 @@
+Zadejte cislo:
+-1 : Spravne zadane cislo.

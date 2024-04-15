@@ -1,0 +1,15 @@
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Jmeno a prijmeni pacientu s pojistovnou 211 je:
+Karla Hodlova
+Jmeno a prijmeni pacientu s pojistovnou 211 je:
+Pavel Sikovny
+Prijmeni vsech pacientu jsou:
+Hodlova
+Pokorny
+Podla
+Mala
+Sikovny

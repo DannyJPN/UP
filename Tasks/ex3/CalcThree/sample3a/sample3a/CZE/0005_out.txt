@@ -1,0 +1,9 @@
+Zadejte prvni cislo:
+Zadejte druhe cislo:
+Zadejte treti cislo:
+Soucet je:
+147
+Soucin je:
+-28035
+Rozdil je:
+31

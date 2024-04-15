@@ -1,0 +1,2 @@
+Enter a number:
+3e+08 : Input number well formated.

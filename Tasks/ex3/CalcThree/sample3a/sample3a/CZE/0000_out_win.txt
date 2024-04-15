@@ -1,0 +1,9 @@
+Zadejte prvni cislo:
+Zadejte druhe cislo:
+Zadejte treti cislo:
+Soucet je:
+34
+Soucin je:
+450
+Rozdil je:
+16

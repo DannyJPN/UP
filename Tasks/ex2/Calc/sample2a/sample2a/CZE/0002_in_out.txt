@@ -1,0 +1,8 @@
+Zadej 1. cislo:
+Zadej 2. cislo:
+Zadali jste:
+12 a 34
+12 + 34 = 46
+12 - 34 = -22
+12 * 34 = 408
+12 / 34 = 0.352941

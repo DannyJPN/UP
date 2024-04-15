@@ -1,0 +1,2 @@
+Zadejte dve binarni cisla:
+Nespravny vstup.

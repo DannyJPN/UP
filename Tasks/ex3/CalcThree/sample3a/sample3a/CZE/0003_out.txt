@@ -1,0 +1,9 @@
+Zadejte prvni cislo:
+Zadejte druhe cislo:
+Zadejte treti cislo:
+Soucet je:
+139
+Soucin je:
+17000
+Rozdil je:
+61

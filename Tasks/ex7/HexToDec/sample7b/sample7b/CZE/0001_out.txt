@@ -1,0 +1,2 @@
+Zadejte hexadecimalni cislo:
+Nespravny vstup.

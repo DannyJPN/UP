@@ -1,0 +1,3 @@
+Zadejte pocet prvku mnoziny A:
+Zadejte prvky mnoziny A:
+Nespravny vstup.

@@ -1,0 +1,8 @@
+Enter the 1st number:
+Enter the 2nd number:
+You have entered:
+0.1 and 11.2
+0.1 + 11.2 = 11.3
+0.1 - 11.2 = -11.1
+0.1 * 11.2 = 1.12
+0.1 / 11.2 = 0.00892857

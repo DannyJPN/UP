@@ -1,0 +1,2 @@
+Enter a hexadecimal number:
+Decimal: 699135

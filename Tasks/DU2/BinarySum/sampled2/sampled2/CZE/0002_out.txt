@@ -1,0 +1,2 @@
+Zadejte dve binarni cisla:
+Soucet: 1010

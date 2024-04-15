@@ -1,0 +1,22 @@
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Novels are:
+Laska_v_nebezpeci
+Cesta_kolem_sveta_za_80_dni
+
+Books with price lower than 300,- Kc are:
+Laska_v_nebezpeci
+Cesta_kolem_sveta_za_80_dni
+Hra_o_truny
+1984
+451_stupnu_Fahrenheita
+
+Surnames of all authors are:
+Quinn
+Verne
+Martin
+Orwel
+Bradbury

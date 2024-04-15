@@ -1,0 +1,2 @@
+Enter numbers, the last one have to be 1000:
+Sum of values is: 1001

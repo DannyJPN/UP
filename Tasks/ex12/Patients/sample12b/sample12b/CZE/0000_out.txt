@@ -1,0 +1,23 @@
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Jmeno a prijmeni pacienta s tbc:
+Jan Novak
+Jmeno a prijmeni pacientu s pojistovnou 211 je:
+Jan Novak
+Jmeno a prijmeni pacienta s tbc:
+Ursula Malinkata
+Jmeno a prijmeni pacienta s tbc:
+Tomas Holy
+Jmeno a prijmeni pacienta s tbc:
+Xavier Maly
+Jmeno a prijmeni pacienta s tbc:
+Ludmila Schwarzova
+Prijmeni vsech pacientu jsou:
+Novak
+Malinkata
+Holy
+Maly
+Schwarzova

@@ -1,0 +1,9 @@
+Enter the first number:
+Enter the second number:
+Enter the third number:
+The sum is:
+0
+The product is:
+0
+The difference is:
+0

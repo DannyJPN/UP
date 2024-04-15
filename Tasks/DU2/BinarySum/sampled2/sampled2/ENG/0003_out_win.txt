@@ -1,0 +1,2 @@
+Enter two binary numbers:
+Sum: 100110

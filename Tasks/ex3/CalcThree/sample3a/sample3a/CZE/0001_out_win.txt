@@ -1,0 +1,9 @@
+Zadejte prvni cislo:
+Zadejte druhe cislo:
+Zadejte treti cislo:
+Soucet je:
+0
+Soucin je:
+0
+Rozdil je:
+0

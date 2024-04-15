@@ -1,0 +1,9 @@
+Enter the first number:
+Enter the second number:
+Enter the third number:
+The sum is:
+22
+The product is:
+-2880
+The difference is:
+-2

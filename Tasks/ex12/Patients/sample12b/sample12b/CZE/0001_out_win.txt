@@ -1,0 +1,13 @@
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Zadejte prijmeni, jmeno, rodne cislo, nemoc a zdravotni pojistovnu pacienta:
+Jmeno a prijmeni pacientu s pojistovnou 211 je:
+Matej Ondrak
+Prijmeni vsech pacientu jsou:
+Novakova
+Ondrak
+Surny
+Hotovy
+Samarova

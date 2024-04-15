@@ -1,0 +1,23 @@
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Romany jsou:
+Anatom
+Cinska_nevesta
+Hrisnik
+
+Knihy s cenou mensi nez 300,- Kc jsou:
+Broucci
+Anatom
+Sedmero_pohadek
+Cinska_nevesta
+Hrisnik
+
+Prijmeni vsech autoru jsou:
+Karafiat
+Andahazi
+Paustovskij
+Putney
+Hunter

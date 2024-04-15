@@ -1,0 +1,2 @@
+Zadejte delky stran trojuhelnika a, b, c:
+Obsah trojuhelnika je 6

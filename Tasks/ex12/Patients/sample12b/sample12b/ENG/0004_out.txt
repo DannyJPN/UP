@@ -1,0 +1,15 @@
+Enter the surname, name, birth number, disease, insurance company of the patient:
+Enter the surname, name, birth number, disease, insurance company of the patient:
+Enter the surname, name, birth number, disease, insurance company of the patient:
+Enter the surname, name, birth number, disease, insurance company of the patient:
+Enter the surname, name, birth number, disease, insurance company of the patient:
+The name and surname of patients with the insurance company 211 is:
+Karla Hodlova
+The name and surname of patients with the insurance company 211 is:
+Pavel Sikovny
+The surnames of all patients are:
+Hodlova
+Pokorny
+Podla
+Mala
+Sikovny

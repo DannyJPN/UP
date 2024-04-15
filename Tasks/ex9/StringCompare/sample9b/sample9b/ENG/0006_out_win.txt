@@ -1,0 +1,7 @@
+Enter the 3 words:
+Word1 and word2 are not the same.
+Word1 and word3 are not the same.
+Word2 and word3 are not the same.
+The number of characters in word1 is: 24
+The number of characters in word2 is: 28
+The number of characters in word3 is: 6

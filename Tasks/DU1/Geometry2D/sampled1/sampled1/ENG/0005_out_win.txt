@@ -1,0 +1,2 @@
+Enter a 2D shape to compute area and perimeter: a - square, b - rectangle, c -circle
+Invalid input.

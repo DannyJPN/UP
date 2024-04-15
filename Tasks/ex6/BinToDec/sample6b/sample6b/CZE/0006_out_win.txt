@@ -1,0 +1,2 @@
+Zadej cislo ve dvojkove soustave:
+Nespravny vstup.

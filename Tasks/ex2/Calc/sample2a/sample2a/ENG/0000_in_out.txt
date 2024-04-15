@@ -1,0 +1,8 @@
+Enter the 1st number:
+Enter the 2nd number:
+You have entered:
+1 and 2
+1 + 2 = 3
+1 - 2 = -1
+1 * 2 = 2
+1 / 2 = 0.5

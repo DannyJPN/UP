@@ -1,0 +1,13 @@
+Enter the surname, name, birth number, disease, insurance company of the patient:
+Enter the surname, name, birth number, disease, insurance company of the patient:
+Enter the surname, name, birth number, disease, insurance company of the patient:
+Enter the surname, name, birth number, disease, insurance company of the patient:
+Enter the surname, name, birth number, disease, insurance company of the patient:
+The name and surname of patients with the insurance company 211 is:
+Libuse Modra
+The surnames of all patients are:
+Hruba
+Stoural
+Lukavska
+Modra
+Smutny

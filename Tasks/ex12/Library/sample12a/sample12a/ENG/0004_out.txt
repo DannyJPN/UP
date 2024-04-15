@@ -1,0 +1,20 @@
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Novels are:
+Kmotr
+Lolita
+
+Books with price lower than 300,- Kc are:
+Kmotr
+Pycha_a_predsudek
+Zaklinac_1
+
+Surnames of all authors are:
+Puzo
+King
+Austen
+Nabokov
+Sapkowski

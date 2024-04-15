@@ -1,0 +1,7 @@
+Zadejte 3 slova:
+Slovo1 a slovo2 nejsou stejna.
+Slovo1 a slovo3 nejsou stejna.
+Slovo2 a slovo3 nejsou stejna.
+Pocet znaku ve slovo1 je: 4
+Pocet znaku ve slovo2 je: 4
+Pocet znaku ve slovo3 je: 22

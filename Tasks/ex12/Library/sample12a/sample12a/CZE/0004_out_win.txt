@@ -1,0 +1,20 @@
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Romany jsou:
+Kmotr
+Lolita
+
+Knihy s cenou mensi nez 300,- Kc jsou:
+Kmotr
+Pycha_a_predsudek
+Zaklinac_1
+
+Prijmeni vsech autoru jsou:
+Puzo
+King
+Austen
+Nabokov
+Sapkowski

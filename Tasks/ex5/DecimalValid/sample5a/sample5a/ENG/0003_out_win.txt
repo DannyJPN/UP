@@ -1,0 +1,2 @@
+Enter a number:
+9.876 : Input number well formated.

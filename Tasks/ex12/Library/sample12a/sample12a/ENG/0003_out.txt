@@ -1,0 +1,21 @@
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Enter the book name, author surname, name, genre, year, price and id:
+Novels are:
+My_deti_ze_stanice_ZOO
+
+Books with price lower than 300,- Kc are:
+Hrbitov_zviratek
+My_deti_ze_stanice_ZOO
+Ja_robot
+Robinson_Crusoe
+Saturnin
+
+Surnames of all authors are:
+King
+Felscherinov
+Asimov
+Defoe
+Jirotka

@@ -1,0 +1,4 @@
+Zadejte rovinny obrazec, jehoz obsah a obvod chcete spocitat: a - ctverec, b - obdelnik, c - kruh
+Zadejte strany obdelniku:
+Obsah obdelniku je: 6.0000
+Obvod obdelniku je: 10.0000

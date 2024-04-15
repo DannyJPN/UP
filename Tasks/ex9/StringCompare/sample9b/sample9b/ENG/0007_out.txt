@@ -1,0 +1,7 @@
+Enter the 3 words:
+Word1 and word2 are the same.
+Word1 and word3 are the same.
+Word2 and word3 are the same.
+The number of characters in word1 is: 8
+The number of characters in word2 is: 8
+The number of characters in word3 is: 8

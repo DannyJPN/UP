@@ -1,0 +1,5 @@
+Zadejte souradnice bodu A a B:
+X-ova souradnice stredu S je: 1.75
+Y-ova souradnice stredu S je: 2
+Smerovy vektor u ma delku: 2.06155
+Polomer kruznice r ma hodnotu: 1.03078

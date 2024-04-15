@@ -1,0 +1,2 @@
+Zadejte hexadecimalni cislo:
+Desitkove: 11267309

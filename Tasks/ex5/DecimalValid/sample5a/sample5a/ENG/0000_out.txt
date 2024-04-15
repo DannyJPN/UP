@@ -1,0 +1,2 @@
+Enter a number:
+123 : Input number well formated.

@@ -1,0 +1,2 @@
+Zadejte delky stran trojuhelnika a, b, c:
+Nejedna se o platny trojuhelnik.

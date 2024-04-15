@@ -1,0 +1,2 @@
+Enter number of visitors:
+The salary is: 880 CZK

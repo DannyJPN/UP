@@ -1,0 +1,8 @@
+Zadej 1. cislo:
+Zadej 2. cislo:
+Zadali jste:
+1 a 2
+1 + 2 = 3
+1 - 2 = -1
+1 * 2 = 2
+1 / 2 = 0.5

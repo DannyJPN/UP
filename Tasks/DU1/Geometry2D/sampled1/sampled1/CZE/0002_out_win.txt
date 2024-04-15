@@ -1,0 +1,4 @@
+Zadejte rovinny obrazec, jehoz obsah a obvod chcete spocitat: a - ctverec, b - obdelnik, c - kruh
+Zadejte polomer kruznice:
+Obsah kruznice je: 314.1593
+Obvod kruznice je: 62.8319

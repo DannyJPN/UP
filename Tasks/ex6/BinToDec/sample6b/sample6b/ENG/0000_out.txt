@@ -1,0 +1,2 @@
+Input binary number:
+Decimal number is: 0

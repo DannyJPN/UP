@@ -1,0 +1,8 @@
+Zadej 1. cislo:
+Zadej 2. cislo:
+Zadali jste:
+16 a -7
+16 + -7 = 9
+16 - -7 = 23
+16 * -7 = -112
+16 / -7 = -2.28571

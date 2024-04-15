@@ -1,0 +1,6 @@
+Zadejte pocet prvku mnoziny A:
+Zadejte prvky mnoziny A:
+Zadejte pocet prvku mnoziny B:
+Zadejte prvky mnoziny B:
+Prunik mnozin:
+{1, 2, 3, 4, 5, 6, 7}

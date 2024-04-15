@@ -1,0 +1,3 @@
+Zadej svoje jmeno (bez diakritiky): Zadej cele cislo: Ahoj, Eli Manfred.
+-7 x 3 = -21
+-7 / 3 = -2

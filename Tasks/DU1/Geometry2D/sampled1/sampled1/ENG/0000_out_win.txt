@@ -1,0 +1,4 @@
+Enter a 2D shape to compute area and perimeter: a - square, b - rectangle, c -circle
+Enter the side of the square:
+Square area is: 30.2500
+Square perimeter is 22.0000

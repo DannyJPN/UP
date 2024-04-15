@@ -1,0 +1,2 @@
+Zadejte 3 slova:
+Nespravny vstup.

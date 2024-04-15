@@ -1,0 +1,22 @@
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Zadej nazev knihy, prijmeni autora, jmeno autora, zanr knihy, rok vydani, cenu a id:
+Romany jsou:
+Fontana_pro_Zuzanu
+Svudkyne
+Tanec_s_draky
+
+Knihy s cenou mensi nez 300,- Kc jsou:
+Fontana_pro_Zuzanu
+Svudkyne
+Indocinou_na_kole
+Vratne_lahve
+
+Prijmeni vsech autoru jsou:
+Gasparova
+Johnson
+Cerveny
+Martin
+Sverak

@@ -1,0 +1,8 @@
+Enter the 1st number:
+Enter the 2nd number:
+You have entered:
+12 and 34
+12 + 34 = 46
+12 - 34 = -22
+12 * 34 = 408
+12 / 34 = 0.352941

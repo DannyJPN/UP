@@ -1,0 +1,2 @@
+Input binary number:
+Wrong input.

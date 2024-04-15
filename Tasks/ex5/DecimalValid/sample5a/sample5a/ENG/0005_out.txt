@@ -1,0 +1,2 @@
+Enter a number:
+-0.00248 : Input number well formated.

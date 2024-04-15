@@ -1,0 +1,2 @@
+Zadejte cislo:
+123 : Spravne zadane cislo.
